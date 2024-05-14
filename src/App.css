@@ -1,0 +1,58 @@
+#tablediv
+{
+  margin-top: 0px;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+#id,
+#firstname,
+#lastname,
+#middlename,
+#password,
+#dob,
+#email,
+#input,
+#mobileno,
+#gender,
+#deptno,
+#dept,
+#salary,
+#skills
+{
+  margin-top: 10px;
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.521);
+}
+
+#regheading
+{
+  margin-bottom:20px;
+  margin-top: 20px;
+  height: 100px;
+  width: 100vw;
+  margin-left: -100px;
+}
+#update
+{
+  margin-top: 20px;
+margin-left: 500px;
+border-radius: 20px;
+}
+#delete
+{
+  margin-top: 20px;
+margin-left: 650px;
+border-radius: 20px;
+}
